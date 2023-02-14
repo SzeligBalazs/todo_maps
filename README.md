@@ -20,7 +20,7 @@ Az alklamazás bemutatója <a href="https://www.youtube.com/watch?v=Rn_vF6lIUmI"
 
 ## Töltse le GitHub releases-ből
 
-Link <a href="https://github.com/SzeligBalazs/ShakeBack/releases/">itt</a>.
+Link <a href="https://github.com/SzeligBalazs/todo_maps/releases/">itt</a>.
 
 ## Képernyőképek
 
